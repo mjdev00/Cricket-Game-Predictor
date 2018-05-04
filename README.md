@@ -4,10 +4,10 @@ Cricket is one of the popular sports played in the world. It is ranked as the se
 Prediction systems for different sports have already been developed been but it’s yet to be done for the game of cricket. We will develop a Cricket predictor which will predict the game before it’s been played based on teams records. 
 
 # Implementation
- Naïve Bayes 
- Logistic regression 
- Random Forests 
- Decision Trees 
+ Naïve Bayes, 
+ Logistic regression, 
+ Random Forests, 
+ Decision Trees and
  SVM 
  
  # Conclusion
