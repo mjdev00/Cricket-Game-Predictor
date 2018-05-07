@@ -7,8 +7,10 @@ Prediction systems for different sports have already been developed been but it‚
  Na√Øve Bayes, 
  Logistic regression, 
  Random Forests, 
- Decision Trees and
- SVM 
+ Decision Trees,
+ SVM,
+ Neural Networks 
+ Nearest Neighbor
  
  # Conclusion
  This analysis produced some of the energetic features that will rise to remarkable results. The previous work has targeted on perspective for predicating the match outcome on current statistics of match being played but this system uses historical data of teams to predict the result 
