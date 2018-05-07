@@ -12,5 +12,8 @@ Prediction systems for different sports have already been developed been but itâ
  Neural Networks 
  Nearest Neighbor
  
+ # Working Diagram
+ ![df - page 1](https://user-images.githubusercontent.com/38050990/39707525-22b7f002-522e-11e8-9e46-916f59943e0c.png)
+ 
  # Conclusion
  This analysis produced some of the energetic features that will rise to remarkable results. The previous work has targeted on perspective for predicating the match outcome on current statistics of match being played but this system uses historical data of teams to predict the result 
