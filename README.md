@@ -27,7 +27,7 @@ Neural Networks <br />
 Nearest Neighbors
 
 # DIAGRAM
-
+![df - page 1 1](https://user-images.githubusercontent.com/38050990/39752651-85d45a20-52d5-11e8-99bd-1032d6a3149a.png)
 
 # CONCLUSION
 The results were not satisfied as the methodology used don’t predict good results as we need. The previous work has targeted on perspective for predicating the match outcome on current statistics of match being played but this system uses historical data of teams to predict the result 
